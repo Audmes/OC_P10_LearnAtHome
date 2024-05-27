@@ -21,3 +21,7 @@ Ce projet consiste à définir des besoins et à modéliser une solution techniq
 
 ### Informations complémentaires
 - Soutenance validé le : 
+
+### Liens
+- Kanban : https://trello.com/b/sB6DY6fc/learnhome
+- Maquettes : https://www.figma.com/design/VI4KjcQTz2nNN1BjzWf043/Learn%40Home?node-id=1-68&t=1j8ZcPiYMRjcJJ0q-0
