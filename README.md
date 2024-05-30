@@ -20,7 +20,7 @@ Ce projet consiste à définir des besoins et à modéliser une solution techniq
 - Contribuer à un projet en utilisant une méthodologie agile
 
 ### Informations complémentaires
-- Soutenance validé le : 
+- Soutenance validé le : 30/05/2024
 
 ### Liens
 - Kanban : https://trello.com/b/sB6DY6fc/learnhome
