@@ -22,6 +22,19 @@ Ce projet consiste à définir des besoins et à modéliser une solution techniq
 ### Informations complémentaires
 - Soutenance validé le : 30/05/2024
 
+#### Livrable
+##### Points forts :
+
+-  Les livrables sont professionnels et cohérents entre eux
+
+#### Soutenance
+##### Remarques :
+
+- Une présentation remarquablement claire et bien organisée
+- Discours brillamment adapté à la situation
+- Livrables présenté de manière cohérente et convaincante
+- Présentation conclu avec brio, démontrant professionnalisme et capacité à gérer les imprévus
+
 ### Liens
 - Kanban : https://trello.com/b/sB6DY6fc/learnhome
 - Maquettes : https://www.figma.com/design/VI4KjcQTz2nNN1BjzWf043/Learn%40Home?node-id=1-68&t=1j8ZcPiYMRjcJJ0q-0
